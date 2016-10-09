@@ -16,8 +16,10 @@ Create a sensor that changes the color of water according to the temperature of 
 Arduino programming IDE was used to create a prototyped breadboard model as a proof of concepts. The same IDE was later used to program an AtTiny85 with the exact same code. Code was written in C, and the information on the Steinhart Equaiton was taken from http://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/
 
 # LESSONS LEARNED
--- In depth understanding of software Pulse Width Modulation (PWM)
--- How to better design a circuit/ electronic system. There will be a v2.0 eventually.
--- How NOT to solder a PCB Prototyping board
--- Functionality of tranforming analog signals into microprocessor-readable digital signals (Steinhart Equaiton)
--- MOST IMPORTANT: **To take more pictures next time (  Only thought to take pictures of finished product, not during the build :(  ) **
+-- In depth understanding of software Pulse Width Modulation (PWM).
+-- How to better design a circuit/ electronic system.
+-- How NOT to solder a PCB Prototyping board.
+-- Functionality of tranforming analog signals into microprocessor-readable digital signals (Steinhart Equaiton).
+-- MOST IMPORTANT: *To take more pictures next time (  Only thought to take pictures of finished product, not during the build :(  ). *
+
+There will be a v2.0 eventually.
