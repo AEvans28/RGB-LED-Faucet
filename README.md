@@ -1,6 +1,6 @@
 # RGB-LED-Faucet
 
-A project I designed to take my knowledge of software programming to solidify my growing understanding of basic electronics, as well as begin thinking about design of systems as a mechanical engineer. 
+A project I designed to take my knowledge of software programming to solidify my growing understanding of basic electronics, as well as to begin thinking about design of systems as a mechanical engineer. 
 
 # Purpose:
 Create a sensor that changes the color of water according to the temperature of water leaving the faucet.
